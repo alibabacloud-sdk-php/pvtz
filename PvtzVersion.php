@@ -9,9 +9,9 @@ use AlibabaCloud\VersionResolverTrait;
  *
  * @package   AlibabaCloud\Pvtz
  *
- * @method V20180101\PvtzApiResolver v20180101()
+ * @method static V20180101\PvtzApiResolver v20180101()
  */
-class Pvtz
+class PvtzVersion
 {
     use VersionResolverTrait;
 }
